@@ -1,0 +1,1 @@
+default:dirt_with_grass sides default_stone.png

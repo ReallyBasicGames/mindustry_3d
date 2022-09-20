@@ -1,0 +1,1 @@
+-- all ores are handled in mapgen to keep things simpler.  path is mindustry_3d/mods/default/mapgen.lua
